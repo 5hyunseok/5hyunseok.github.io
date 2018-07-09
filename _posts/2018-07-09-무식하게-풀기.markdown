@@ -2,7 +2,7 @@
 layout: post
 title:  "[알고리즘 문제해결 전략] 6. 무식하게 풀기"
 subtitle:   "공부"
-categories: review
+categories: study
 tags: study-algorithm
 comments: true
 ---
